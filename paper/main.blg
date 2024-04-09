@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: data/gbt7714-2005.bst
+A level-1 auxiliary file: pages/abstract.aux
+A level-1 auxiliary file: pages/chapter1.aux
+A level-1 auxiliary file: pages/chapter2.aux
+A level-1 auxiliary file: pages/chapter3.aux
+A level-1 auxiliary file: pages/chapter4.aux
+A level-1 auxiliary file: pages/conclusion.aux
+A level-1 auxiliary file: pages/thanks.aux
+A level-1 auxiliary file: pages/appendix.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ref/refs.bib
+Warning--Require address: kuhn2004man
+You've used 4 entries,
+            3051 wiz_defined-function locations,
+            731 strings with 6532 characters,
+and the built_in function-call counts, 3887 in all, are:
+= -- 370
+> -- 10
+< -- 24
++ -- 282
+- -- 30
+* -- 161
+:= -- 410
+add.period$ -- 0
+call.type$ -- 4
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 498
+empty$ -- 179
+format.name$ -- 24
+if$ -- 995
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 0
+newline$ -- 39
+num.names$ -- 4
+pop$ -- 61
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 57
+stack$ -- 0
+substring$ -- 403
+swap$ -- 169
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 60
+width$ -- 5
+write$ -- 79
+(There was 1 warning)

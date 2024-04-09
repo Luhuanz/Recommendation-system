@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{targ2016resnet}
+\bibauthor{TARG S\@, ALMEIDA D\@, LYMAN K}\@. \bibtitle{Resnet in resnet:
+  Generalizing residual architectures}\bibmark{[J]}\@. \bibjournal{arXiv
+  preprint arXiv:1603.08029}\@, \bibyear{2016}\@.
+
+\bibitem{kuhn2004man}
+\bibauthor{KUHN R}\@. \bibbooktitle{The Man who Changed China: The Life and
+  Legacy of Jiang Zemin}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibpublisher{Crown
+  Publishers}\@, \bibyear{2004}\@.
+
+\bibitem{江泽民1989能源发展趋势及主要节能措施}
+\bibauthor{江泽民}\@.
+  \bibtitle{能源发展趋势及主要节能措施}\bibmark{[J]}\@.
+  \bibjournal{上海交通大学学报}\@, \bibyear{1989}\@,
+  \bibvolume{23}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}16}\@.
+
+\bibitem{江泽民2008新时期我国信息技术产业的发展}
+\bibauthor{江泽民}\@.
+  \bibtitle{新时期我国信息技术产业的发展}\bibmark{[J]}\@.
+  \bibjournal{上海交通大学学报}\@, \bibyear{2008}\@,
+  \bibvolume{42}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{1589\thinspace{}\textnormal{--}\thinspace{}1607}\@.
+
+\end{thebibliography}
